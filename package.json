@@ -16,7 +16,7 @@
   "dependencies": {
     "@tabler/icons-svelte": "^3.35.0",
     "@tauri-apps/api": "^2.9.0",
-    "katex": "^0.16.22",
+    "katex": "^0.18.2",
     "svelte": "^5.39.0"
   },
   "devDependencies": {
