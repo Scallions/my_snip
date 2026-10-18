@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "capture",
+  "description": "The screenshot overlay can listen for capture state; Rust validates its other commands.",
+  "windows": ["capture-*"],
+  "permissions": ["core:event:allow-listen", "core:event:allow-unlisten", "allow-initial-state", "allow-window-ready", "allow-commit-selection", "allow-cancel-session"]
+}
